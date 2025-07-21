@@ -43,7 +43,7 @@ def safe_remove_job():
 
 
 def load_questions(file_path):
-    with open(r"E:\python_coding\projects\questions.txt", "r", encoding="utf-8") as f:
+    with open(r".txt", "r", encoding="utf-8") as f:
         content = f.read().strip().split("\n\n")
     questions = []
     for block in content:
