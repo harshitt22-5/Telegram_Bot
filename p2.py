@@ -207,9 +207,10 @@ async def stop_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 if __name__ == "__main__":
     import os
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    print(f"DEBUG: TELEGRAM_BOT_TOKEN={token}")  # Debug print to verify environment variable
     if not token:
         raise ValueError("Please set the TELEGRAM_BOT_TOKEN environment variable.")
-    app = ApplicationBuilder().token(os.getenv("TELEGRAM_BOT_TOKEN")).build()
+    app = ApplicationBuilder().token(token).build()
 
     app.add_handler(CommandHandler("quiz", quiz_command))
     app.add_handler(CommandHandler("stop", stop_command))
