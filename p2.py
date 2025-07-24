@@ -209,7 +209,7 @@ async def stop_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         time_score = quiz_data["answer_times"].get(user_id, float('inf'))
         leaderboard_data.append((user_id, score, time_score))
     leaderboard_data.sort(key=lambda x: (-x[1], x[2]))
-    leaderboard_text = "🏆 Quiz stopped by admin.\n\nCurrent Leaderboard:\n"
+    leaderboard_text = "🏆 Quiz stopped by admin.\nFollow @harshitt22.5 on InstaGram\n\nCurrent Leaderboard:\n"
     for user_id, score, time_score in leaderboard_data:
         username = quiz_data["usernames"].get(user_id, str(user_id))
         time_display = f"{time_score:.2f}" if time_score != float('inf') else "N/A"
