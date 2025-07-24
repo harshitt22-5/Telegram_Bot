@@ -1,0 +1,141 @@
+What you provided is the content of the `questions.txt` file, which contains the quiz questions and answers. Here is the content for that file:
+
+What is the simple interest on ₹9000 at 9% p.a. for 3 years?
+A) 2430
+B) 2700
+C) 2200
+D) 2500
+A
+
+What is the compound interest on ₹6000 at 10% p.a. for 2 years, compounded annually?
+A) 1260
+B) 1210
+C) 1200
+D) 1100
+A
+
+The SI on ₹4000 for 4 years at 5% p.a. is:
+A) 800
+B) 700
+C) 850
+D) 900
+A
+
+What is the compound interest on ₹8000 at 5% p.a. for 2 years?
+A) 820
+B) 810
+C) 820.50
+D) 800
+C
+
+The difference between compound interest and simple interest on ₹5000 for 2 years at 10% p.a. is:
+A) 50
+B) 52.50
+C) 55
+D) 60
+B
+
+Find the SI on ₹3500 at 6% p.a. for 3 years.
+A) 630
+B) 645
+C) 640
+D) 650
+A
+
+A sum of ₹7000 at 10% p.a. SI for 4 years will earn:
+A) 2800
+B) 2900
+C) 2600
+D) 2700
+A
+
+The CI on ₹2000 at 20% p.a. for 2 years is:
+A) 880
+B) 820
+C) 840
+D) 880.00
+D
+
+The SI on ₹1500 at 12% p.a. for 3 years is:
+A) 540
+B) 520
+C) 500
+D) 560
+A
+
+Find CI on ₹4000 at 10% p.a. for 2 years.
+A) 840
+B) 820
+C) 880
+D) 800
+A
+
+A man deposited ₹4000 at 5% p.a. for 3 years. What is the simple interest?
+A) 600
+B) 500
+C) 550
+D) 650
+A
+
+Rani borrowed ₹8000 at 6% p.a. for 2 years. How much interest will she pay?
+A) 960
+B) 900
+C) 940
+D) 1000
+A
+
+A sum of ₹5000 earns compound interest at 10% p.a. for 2 years. What is the total interest?
+A) 1050
+B) 1025
+C) 1000
+D) 1100
+A
+
+An amount of ₹6000 is kept in a bank at 5% p.a. for 4 years. What is the simple interest?
+A) 1000
+B) 1200
+C) 1100
+D) 1150
+B
+
+Amit invested ₹3000 at 12% p.a. for 2 years compounded annually. What is the compound interest?
+A) 750
+B) 780
+C) 763.20
+D) 800
+C
+
+What sum will amount to ₹9261 in 2 years at 10% p.a. compound interest?
+A) 7600
+B) 7601
+C) 7650
+D) 7700
+B
+
+In what time will ₹8000 amount to ₹9261 at 10% p.a. compound interest?
+A) 2 years
+B) 2.5 years
+C) 3 years
+D) 1.5 years
+A
+
+If the difference between SI and CI on a certain sum for 2 years at 5% is ₹25, then the sum is:
+A) 10000
+B) 10000.00
+C) 10050
+D) 10500
+B
+
+Find the CI on ₹10000 at 20% p.a. compounded half-yearly for 1.5 years.
+A) 3312
+B) 3312.00
+C) 3200
+D) 3330
+B
+
+A certain sum triples in 8 years at compound interest. In how many years will it become 9 times?
+A) 16
+B) 24
+C) 18
+D) 20
+B
