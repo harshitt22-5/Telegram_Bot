@@ -69,7 +69,13 @@ def load_questions(file_path):
 
 async def quiz_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if quiz_data["is_running"]:
-        await update.message.reply_text("A quiz is already running. Use /stop to end it.")
+        try:
+            if update.message:
+                await update.message.reply_text("A quiz is already running. Use /stop to end it.")
+            else:
+                await context.bot.send_message(chat_id=update.effective_chat.id, text="A quiz is already running. Use /stop to end it.")
+        except Exception as e:
+            print(f"Error sending quiz already running message: {e}")
         return
 
     args = context.args
@@ -81,7 +87,13 @@ async def quiz_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     quiz_data["start_time"] = time.time()
 
     # Send welcome message
-    await update.message.reply_text(f"Welcome to the quiz! Each question will have {quiz_data['timer']} seconds.")
+    try:
+        if update.message:
+            await update.message.reply_text(f"Welcome to the quiz! Each question will have {quiz_data['timer']} seconds.")
+        else:
+            await context.bot.send_message(chat_id=update.effective_chat.id, text=f"Welcome to the quiz! Each question will have {quiz_data['timer']} seconds.")
+    except Exception as e:
+        print(f"Error sending welcome message: {e}")
 
     # Pass context to send_question to enable job queue scheduling
     await send_question(context.bot, update.effective_chat.id, context)
@@ -211,6 +223,8 @@ if __name__ == "__main__":
     if not token:
         raise ValueError("Please set the TELEGRAM_BOT_TOKEN environment variable.")
     app = ApplicationBuilder().token(token).build()
+
+    print("Quiz bot started successfully.")  # Log message to indicate bot start
 
     app.add_handler(CommandHandler("quiz", quiz_command))
     app.add_handler(CommandHandler("stop", stop_command))
