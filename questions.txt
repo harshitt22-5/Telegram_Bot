@@ -1,141 +1,141 @@
 What you provided is the content of the `questions.txt` file, which contains the quiz questions and answers. Here is the content for that file:
 
-What is the simple interest on ₹9000 at 9% p.a. for 3 years?
-A) 2430
-B) 2700
-C) 2200
-D) 2500
-A
+1.  What is the correct synonym for "Benevolent"?
+    A) Cruel
+    B) Kind
+    C) Selfish
+    D) Greedy
+    B
 
-What is the compound interest on ₹6000 at 10% p.a. for 2 years, compounded annually?
-A) 1260
-B) 1210
-C) 1200
-D) 1100
-A
+2.  Choose the word that means the opposite of "Optimistic":
+    A) Hopeful
+    B) Pessimistic
+    C) Positive
+    D) Cheerful
+    B
 
-The SI on ₹4000 for 4 years at 5% p.a. is:
-A) 800
-B) 700
-C) 850
-D) 900
-A
+3.  Complete the sentence with the correct article: "She is ____ honest woman."
+    A) a
+    B) an
+    C) the
+    D) no article
+    B
 
-What is the compound interest on ₹8000 at 5% p.a. for 2 years?
-A) 820
-B) 810
-C) 820.50
-D) 800
-C
+4.  Identify the figure of speech: "The sun smiled down on us."
+    A) Simile
+    B) Metaphor
+    C) Personification
+    D) Hyperbole
+    C
 
-The difference between compound interest and simple interest on ₹5000 for 2 years at 10% p.a. is:
-A) 50
-B) 52.50
-C) 55
-D) 60
-B
+5.  Which of the following is a grammatically correct sentence?
+    A) Him and me went to the store.
+    B) He and I went to the store.
+    C) Me and him went to the store.
+    D) Him and I went to the store.
+    B
 
-Find the SI on ₹3500 at 6% p.a. for 3 years.
-A) 630
-B) 645
-C) 640
-D) 650
-A
+6.  Find the word with the correct spelling:
+    A) Acommodate
+    B) Accomodate
+    C) Acommodate
+    D) Accommodate
+    D
 
-A sum of ₹7000 at 10% p.a. SI for 4 years will earn:
-A) 2800
-B) 2900
-C) 2600
-D) 2700
-A
+7.  Identify the passive voice in the following sentences:
+    A) The dog chased the cat.
+    B) The cat was chased by the dog.
+    C) The cat is chasing the dog.
+    D) The dog is being chased by the cat.
+    B
 
-The CI on ₹2000 at 20% p.a. for 2 years is:
-A) 880
-B) 820
-C) 840
-D) 880.00
-D
+8.  What is the plural of "ox"?
+    A) Oxes
+    B) Oxen
+    C) Oxi
+    D) Oxs
+    B
 
-The SI on ₹1500 at 12% p.a. for 3 years is:
-A) 540
-B) 520
-C) 500
-D) 560
-A
+9.  Choose the correct preposition to complete the sentence: "She is good ____ mathematics."
+    A) in
+    B) at
+    C) on
+    D) with
+    B
 
-Find CI on ₹4000 at 10% p.a. for 2 years.
-A) 840
-B) 820
-C) 880
-D) 800
-A
+10. Which sentence uses an intransitive verb correctly?
+    A) He kicked the ball.
+    B) She sings beautifully.
+    C) They built a house.
+    D) I read a book.
+    B
 
-A man deposited ₹4000 at 5% p.a. for 3 years. What is the simple interest?
-A) 600
-B) 500
-C) 550
-D) 650
-A
+11. Identify the adverb in the following sentence: "The old man walked slowly down the street."
+    A) old
+    B) man
+    C) slowly
+    D) street
+    C
 
-Rani borrowed ₹8000 at 6% p.a. for 2 years. How much interest will she pay?
-A) 960
-B) 900
-C) 940
-D) 1000
-A
+12. Fill in the blank with the appropriate conjunction: "He is rich, ____ he is not happy."
+    A) and
+    B) but
+    C) so
+    D) or
+    B
 
-A sum of ₹5000 earns compound interest at 10% p.a. for 2 years. What is the total interest?
-A) 1050
-B) 1025
-C) 1000
-D) 1100
-A
+13. Which of the following is a complex sentence?
+    A) I went to the market and bought some vegetables.
+    B) Although it was raining, we went for a walk.
+    C) She is intelligent and hardworking.
+    D) He ran fast.
+    B
 
-An amount of ₹6000 is kept in a bank at 5% p.a. for 4 years. What is the simple interest?
-A) 1000
-B) 1200
-C) 1100
-D) 1150
-B
+14. Identify the correct use of a semicolon:
+    A) I like apples; bananas; and oranges.
+    B) The weather was terrible; therefore, we stayed home.
+    C) She studied hard; she passed the exam.
+    D) He is tall; and handsome.
+    B
 
-Amit invested ₹3000 at 12% p.a. for 2 years compounded annually. What is the compound interest?
-A) 750
-B) 780
-C) 763.20
-D) 800
-C
+15. Choose the sentence with a dangling modifier:
+    A) Running quickly, the bus was missed.
+    B) Running quickly, he caught the bus.
+    C) He caught the bus, running quickly.
+    D) The bus was caught by him, running quickly.
+    A
 
-What sum will amount to ₹9261 in 2 years at 10% p.a. compound interest?
-A) 7600
-B) 7601
-C) 7650
-D) 7700
-B
+16. Choose the most appropriate phrasal verb to complete the sentence: "She couldn't ____ the loss of her pet."
+    A) get over
+    B) get by
+    C) get away
+    D) get off
+    A
 
-In what time will ₹8000 amount to ₹9261 at 10% p.a. compound interest?
-A) 2 years
-B) 2.5 years
-C) 3 years
-D) 1.5 years
-A
+17. Identify the part of speech of the underlined word: "He bought a *fast* car."
+    A) Noun
+    B) Verb
+    C) Adjective
+    D) Adverb
+    C
 
-If the difference between SI and CI on a certain sum for 2 years at 5% is ₹25, then the sum is:
-A) 10000
-B) 10000.00
-C) 10050
-D) 10500
-B
+18. Which of the following is an example of an oxymoron?
+    A) Pretty ugly
+    B) White as snow
+    C) Busy bee
+    D) Silent night
+    A
 
-Find the CI on ₹10000 at 20% p.a. compounded half-yearly for 1.5 years.
-A) 3312
-B) 3312.00
-C) 3200
-D) 3330
-B
+19. Complete the sentence with the correct form of the verb: "If I ____ a bird, I would fly."
+    A) am
+    B) was
+    C) were
+    D) had been
+    C
 
-A certain sum triples in 8 years at compound interest. In how many years will it become 9 times?
-A) 16
-B) 24
-C) 18
-D) 20
-B
+20. Choose the sentence with correct punctuation:
+    A) The cat, jumped over the fence.
+    B) The cat jumped, over the fence.
+    C) The cat jumped over the fence.
+    D) The cat jumped over the fence!
+    C
