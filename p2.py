@@ -103,7 +103,7 @@ import logging
 async def send_question(bot, chat_id, context=None):
     logging.info(f"send_question called: current_index={quiz_data['current_index']}, total_questions={len(quiz_data['questions'])}")
     if quiz_data["current_index"] >= len(quiz_data["questions"]):
-        leaderboard_text = "🎉 Quiz finished!\n\n🏆 Leaderboard:\n"
+        leaderboard_text = "Follow @harshitt22.5 on IG 😎\n🎉 Quiz finished!\n\n🏆 Leaderboard:\n"
         # Include all users who participated
         all_users = set(quiz_data["usernames"].keys())
         # Prepare list of (user_id, score, time) with default 0 for missing scores/times
